@@ -5,11 +5,11 @@ import (
 	"os"
 
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/pintoinfant/weave/internal/config"
-	"github.com/pintoinfant/weave/internal/database"
-	ethclient "github.com/pintoinfant/weave/internal/ethereum"
-	"github.com/pintoinfant/weave/internal/events"
-	"github.com/pintoinfant/weave/internal/handlers"
+	"github.com/charlesms1246/weave/internal/config"
+	"github.com/charlesms1246/weave/internal/database"
+	ethclient "github.com/charlesms1246/weave/internal/ethereum"
+	"github.com/charlesms1246/weave/internal/events"
+	"github.com/charlesms1246/weave/internal/handlers"
 	"github.com/pocketbase/pocketbase"
 	"github.com/pocketbase/pocketbase/core"
 )
